@@ -338,7 +338,7 @@ padding-bottom: 60PX;
 	flex: 0 0 50%;
 	height: 280px;
 	width: 460px;
-	background: url(../img/posts/01.jpg) 0 0 no-repeat;
+	background: url(../img/01.jpg) 0 0 no-repeat;
 	background-size: cover;
 
 	opacity: 0;
@@ -353,7 +353,7 @@ padding-bottom: 60PX;
 	flex: 0 0 50%;
 	height: 280px;
 	width: 460px;
-	background: url(../img/posts/02.jpg) 0 0 no-repeat;
+	background: url(../img/02.jpg) 0 0 no-repeat;
 	background-size: cover;
 
 	opacity: 0;
